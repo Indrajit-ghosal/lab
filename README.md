@@ -1,4 +1,3 @@
-# lab
                                                         OS Lab question
 
 a) Write a program for solving reader writer's problem using binary semaphores.
